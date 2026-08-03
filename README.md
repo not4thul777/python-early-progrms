@@ -25,7 +25,7 @@ cd python-early-programs
 3. Run the program:
 
 ```bash
-python "happy_newyear countdown.py.py"
+python "happy_newyear countdown.py"
 ```
 
 ## Example output
