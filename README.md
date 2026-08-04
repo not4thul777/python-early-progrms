@@ -1,50 +1,25 @@
-# python-early-programs
+# Python Early Programs 🐍
 
-I'm learning Python and building small projects along the way. 🚀
+I'm learning Python and building small projects along the way.
 
-## Programs
+## Projects
 
-1. 🎉 Happy New Year Countdown
+### 1. 🎉 New Year Countdown
 
-A simple countdown program that counts from 10 to 0 and wishes you a happy new year.
+Counts down from 10 to 0 and wishes you a happy new year.
 
-## How to run
-
-1. Clone the repository:
+Run:
 
 ```bash
-git clone https://github.com/not4thul777/python-early-programs.git
+python happy_newyear_countdown.py
 ```
 
-2. Open the project folder:
+### 2. 🛒 Shopping Cart
+
+A simple shopping cart application that uses lists to store food items and calculate the total bill.
+
+Run:
 
 ```bash
-cd python-early-programs
+python shopping_cart.py
 ```
-
-3. Run the program:
-
-```bash
-python "happy_newyear countdown.py"
-```
-
-## Example output
-
-```text
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0
-Happy New Year!
-```
-
-## Author
-
-Made by Athul while learning Python. 🐍
