@@ -90,4 +90,4 @@ python shopping_cart.py
 
 ## 👨‍💻 Author
 
-Athul Krishna
+Athul Krishna A
