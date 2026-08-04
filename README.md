@@ -101,6 +101,41 @@ Guesses: A A A B A
 
 Your score is: 80%
 ```
+---
+
+## 🍕 Concession Stand
+
+A simple concession stand program that displays a menu, allows users to select items, and calculates the total price.
+
+### Run
+
+```bash
+python concession_stand.py
+```
+
+### Sample output
+
+```text
+-----------MENU-----------
+
+pizza     : $10.00
+burger    : $8.00
+salad     : $6.00
+soda      : $2.00
+pasta     : $12.00
+
+--------------------------
+
+select an item (q to quit): pizza
+select an item (q to quit): soda
+select an item (q to quit): q
+
+-----------CART-----------
+
+pizza soda
+
+total is: $12.00
+```
 
 
 ## 🚀 How to run this repository
