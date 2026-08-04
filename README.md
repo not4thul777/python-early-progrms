@@ -136,6 +136,37 @@ pizza soda
 
 total is: $12.00
 ```
+---
+
+## 🎮 Number Guessing Game
+
+A game where the player tries to guess a randomly generated number between 1 and 100.
+
+### Run
+
+```bash
+python number_guessing_game.py
+```
+
+### Sample output
+
+```text
+Python Number Guessing Game
+
+Secret number between 1 and 100
+
+Enter your guess: 50
+Too low! Try again.
+
+Enter your guess: 75
+Too high! Try again.
+
+Enter your guess: 63
+
+Congratulations! You've guessed the number 63 in 3 attempts.
+
+Game Over. Thank you for playing!
+```
 
 
 ## 🚀 How to run this repository
