@@ -64,6 +64,45 @@ Your total is: $15.00
 
 ---
 
+---
+
+## 🧠 Quiz Game
+
+A multiple-choice quiz game that asks general knowledge questions and calculates the final score.
+
+### Run
+
+```bash
+python quiz_game.py
+```
+
+### Sample output
+
+```text
+-------------------------
+how many continents are there?
+
+A. 7
+B. 6
+C. 8
+D. 5
+E. 9
+
+Enter (A, B, C, D, or E): A
+
+CORRECT!
+
+-------------------------
+RESULTS
+-------------------------
+
+Answers: A A A A A
+Guesses: A A A B A
+
+Your score is: 80%
+```
+
+
 ## 🚀 How to run this repository
 
 1. Clone the repository:
