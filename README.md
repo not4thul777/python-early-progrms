@@ -193,6 +193,31 @@ You win!
 play again? (y/n): y
 ```
 
+---
+
+## 🎲 Dice Roller
+
+A dice-rolling simulator that displays ASCII art for each die and calculates the total.
+
+### Run
+
+```bash
+python dice_roller.py
+```
+
+### Sample output
+
+```text
+How many dice do you want to roll? 3
+
+┌─────────┐  ┌─────────┐  ┌─────────┐
+│  ●      │  │  ●   ●  │  │         │
+│    ●    │  │    ●    │  │    ●    │
+│      ●  │  │  ●   ●  │  │         │
+└─────────┘  └─────────┘  └─────────┘
+
+total: 9
+```
 
 ## 🚀 How to run this repository
 
