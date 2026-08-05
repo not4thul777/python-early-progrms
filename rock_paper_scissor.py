@@ -1,5 +1,5 @@
 import random
-options=("rock","paper","scissors")
+options=("rock","paper","scissors").lower()
 playing=True
 while playing:
 
