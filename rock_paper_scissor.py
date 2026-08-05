@@ -1,12 +1,12 @@
 import random
-options=("rock","paper","scissors").lower()
+options=("rock","paper","scissors")
 playing=True
 while playing:
 
     computer= random.choice(options)
     player= None
     while player not in options:
-        player=input("enter a choice (rock, paper, scissors):  ")
+        player=input("enter a choice (rock, paper, scissors):  ").lower()
     print(f"Player: {player}")
     print(f"Computer: {computer}")
     if player==computer:
