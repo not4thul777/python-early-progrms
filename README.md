@@ -168,6 +168,31 @@ Congratulations! You've guessed the number 63 in 3 attempts.
 Game Over. Thank you for playing!
 ```
 
+---
+
+## ✊ Rock Paper Scissors
+
+A classic Rock-Paper-Scissors game where the player competes against the computer.
+
+### Run
+
+```bash
+python rock_paper_scissors.py
+```
+
+### Sample output
+
+```text
+enter a choice (rock, paper, scissors): rock
+
+Player: rock
+Computer: scissors
+
+You win!
+
+play again? (y/n): y
+```
+
 
 ## 🚀 How to run this repository
 
