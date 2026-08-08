@@ -218,6 +218,47 @@ How many dice do you want to roll? 3
 
 total: 9
 ```
+---
+
+## 🏦 Banking Program
+
+A simple console-based banking program that allows users to check their balance, deposit money, withdraw money, and exit the program.
+
+### How to run
+
+```bash
+python banking_program.py
+```
+
+### Sample output
+
+```text
+---------------------
+    BANKING PROGRAM
+---------------------
+1. Show Balance
+2. Deposit
+3. Withdraw
+4. Exit
+---------------------
+Enter your choice (1-4): 2
+
+Enter an amount to deposit: 100
+
+---------------------
+    BANKING PROGRAM
+---------------------
+1. Show Balance
+2. Deposit
+3. Withdraw
+4. Exit
+---------------------
+Enter your choice (1-4): 1
+
+---------------------
+Your balance is $100.00
+---------------------
+```
 
 ## 🚀 How to run this repository
 
