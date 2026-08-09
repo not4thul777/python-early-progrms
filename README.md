@@ -259,6 +259,41 @@ Enter your choice (1-4): 1
 Your balance is $100.00
 ---------------------
 ```
+---
+
+## 🎰 Slot Machine
+
+A console-based slot machine game where players can bet their balance and win different payouts by matching symbols.
+
+### How to run
+
+```bash
+python slot_machine.py
+```
+
+### Sample output
+
+```text
+-----------------------------
+    WELCOME TO THE SLOT MACHINE
+Symbols: 🍒 🍉 🍋 🔔 ⭐
+-----------------------------
+Current balance: $100
+Place your bet amount: 10
+
+Spinning......
+
+****************
+🍋 | 🍋 | 🍋
+****************
+
+YOU WON $50
+Do you want to spin again? (Y/N): N
+
+----------------------------------------------
+GAME OVER!!! YOUR FINAL BALANCE IS $140
+----------------------------------------------
+```
 
 ## 🚀 How to run this repository
 
