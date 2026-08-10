@@ -294,6 +294,33 @@ Do you want to spin again? (Y/N): N
 GAME OVER!!! YOUR FINAL BALANCE IS $140
 ----------------------------------------------
 ```
+---
+
+## 🔐 Encryption & Decryption
+
+A simple substitution cipher that randomly generates an encryption key and uses it to encrypt and decrypt messages.
+
+### How to run
+
+```bash
+python encryption.py
+```
+
+### Sample output
+
+```text
+Enter a message to encrypt: hello
+
+Original message: hello
+Encrypted message: %2ii7
+
+Enter a message to decrypt: %2ii7
+
+Encrypted message: %2ii7
+Original message: hello
+```
+
+> Note: The encrypted output will be different each time because the encryption key is randomly shuffled.
 
 ## 🚀 How to run this repository
 
