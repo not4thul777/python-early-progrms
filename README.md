@@ -322,6 +322,43 @@ Original message: hello
 
 > Note: The encrypted output will be different each time because the encryption key is randomly shuffled.
 
+---
+
+## 🎯 Hangman
+
+A classic Hangman game where the player tries to guess a randomly selected word one letter at a time.
+
+### How to run
+
+Make sure both `hangman.py` and `wordlist.py` are in the same folder.
+
+```bash
+python hangman.py
+```
+
+### Sample output
+
+```text
+------------------------
+ o
+/|\
+/ \
+------------------------
+_ _ _ _ _
+
+Enter a letter: a
+
+_ _ a _ _
+```
+
+### Features
+
+- 🎲 Random word selection
+- 🔤 Letter guessing
+- ❤️ Limited wrong guesses
+- 📝 Displays guessed letters
+- 🎯 Win and lose conditions
+
 ## 🚀 How to run this repository
 
 1. Clone the repository:
